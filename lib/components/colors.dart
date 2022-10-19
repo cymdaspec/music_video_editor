@@ -1,0 +1,1 @@
+String main_color = Colors.deepPurple[300];
